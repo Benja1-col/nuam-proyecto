@@ -1,0 +1,20 @@
+<Auditoria>
+    <Registro>
+        <Usuario>operador@nuam.cl</Usuario>
+        <Pais>CL</Pais>
+        <Accion>TRANSACCION_XML</Accion>
+        <Detalle>{"monto": 15000, "id_transaccion": "TX-999"}</Detalle>
+    </Registro>
+    <Registro>
+        <Usuario>admin@nuam.cl</Usuario>
+        <Pais>PE</Pais>
+        <Accion>AJUSTE_SISTEMA</Accion>
+        <Detalle>{"motivo": "Corrección horaria"}</Detalle>
+    </Registro>
+    <Registro>
+        <Usuario>invitado@nuam.cl</Usuario>
+        <Pais>CO</Pais>
+        <Accion>LOGIN_FALLIDO</Accion>
+        <Detalle>{"ip": "192.168.0.55"}</Detalle>
+    </Registro>
+</Auditoria>

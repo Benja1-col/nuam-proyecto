@@ -1,0 +1,10 @@
+# Excluye la caché de Python
+__pycache__/
+*.pyc
+
+# Excluye la carpeta de dependencias de React (Frontend)
+/frontend/node_modules/
+/frontend/build/
+
+# Excluye archivos sensibles de configuración
+config.py

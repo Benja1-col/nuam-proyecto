@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transacciones>
+    <transaccion>
+        <id>TRX001</id>
+        <fecha>2025-01-15</fecha>
+        <monto>1500.50</monto>
+        <pais>Colombia</pais>
+        <descripcion>Pago de servicios</descripcion>
+    </transaccion>
+    <transaccion>
+        <id>TRX002</id>
+        <fecha>2025-01-16</fecha>
+        <monto>2300.75</monto>
+        <pais>Mexico</pais>
+        <descripcion>Transferencia internacional</descripcion>
+    </transaccion>
+    <transaccion>
+        <id>TRX003</id>
+        <fecha>2025-01-17</fecha>
+        <monto>850.25</monto>
+        <pais>Peru</pais>
+        <descripcion>Compra de bienes</descripcion>
+    </transaccion>
+    <transaccion>
+        <id>TRX004</id>
+        <fecha>2025-01-18</fecha>
+        <monto>3200.00</monto>
+        <pais>Chile</pais>
+        <descripcion>Pago de nómina</descripcion>
+    </transaccion>
+    <transaccion>
+        <id>TRX005</id>
+        <fecha>2025-01-19</fecha>
+        <monto>1100.90</monto>
+        <pais>Argentina</pais>
+        <descripcion>Reembolso</descripcion>
+    </transaccion>
+</transacciones>
